@@ -4,11 +4,9 @@ repo: site-monitor # The name of this repository
 
 sites:
   - name: Angélica Andrade - Site Principal
-    url: https://angelicaandrade.com.br
+    url: https://www.angelicaandrade.com.br
   - name: Angélica Andrade - Blog
-    url: https://angelicaandrade.com.br/blog
-  - name: Repositório GitHub
-    url: https://github.com/Danrrodrigues/angelicaandrade
+    url: https://www.angelicaandrade.com.br/blog
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -25,7 +23,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Site Principal
-      href: https://angelicaandrade.com.br
+      href: https://www.angelicaandrade.com.br
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
