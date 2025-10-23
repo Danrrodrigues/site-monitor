@@ -13,6 +13,8 @@ sites:
     url: https://www.danilorodrigues.me
   - name: Danilo Rodrigues (sem www)
     url: https://danilorodrigues.me
+  - name: Intelinegocio (vercel)
+    url: https://intelinegocio.vercel.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -32,6 +34,9 @@ status-website:
       href: https://www.angelicaandrade.com.br
     - title: Danilo Rodrigues
       href: https://www.danilorodrigues.me
+    - title: Intelinegocio
+      href: https://intelinegocio.vercel.app
+      
 
 workflowSchedule:
   graphs: "0 */6 * * *"
