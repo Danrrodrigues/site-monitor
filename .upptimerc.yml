@@ -33,5 +33,12 @@ status-website:
     - title: Danilo Rodrigues
       href: https://www.danilorodrigues.me
 
+workflowSchedule:
+  graphs: "0 */6 * * *"
+  responseTime: "0 */6 * * *"
+  staticSite: "0 */6 * * *"
+  summary: "0 */6 * * *"
+  uptime: "*/5 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
