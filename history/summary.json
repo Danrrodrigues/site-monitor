@@ -4,107 +4,119 @@
     "url": "https://www.angelicaandrade.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/www.angelicaandrade.com.br.ico",
     "slug": "angelica-andrade-www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 540,
-    "timeWeek": 575,
-    "timeMonth": 575,
-    "timeYear": 575,
-    "dailyMinutesDown": {}
+    "time": 571,
+    "timeDay": 536,
+    "timeWeek": 571,
+    "timeMonth": 571,
+    "timeYear": 571,
+    "dailyMinutesDown": {
+      "2025-10-25": 0
+    }
   },
   {
     "name": "Angélica Andrade (sem www)",
     "url": "https://angelicaandrade.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/angelicaandrade.com.br.ico",
     "slug": "angelica-andrade-sem-www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 406,
-    "timeWeek": 412,
-    "timeMonth": 412,
-    "timeYear": 412,
-    "dailyMinutesDown": {}
+    "time": 410,
+    "timeDay": 404,
+    "timeWeek": 410,
+    "timeMonth": 410,
+    "timeYear": 410,
+    "dailyMinutesDown": {
+      "2025-10-25": 0
+    }
   },
   {
     "name": "Angélica Andrade - Link Bio",
     "url": "https://www.angelicaandrade.com.br/link-bio",
     "icon": "https://icons.duckduckgo.com/ip3/www.angelicaandrade.com.br.ico",
     "slug": "angelica-andrade-link-bio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 50,
-    "timeDay": 44,
+    "timeDay": 45,
     "timeWeek": 50,
     "timeMonth": 50,
     "timeYear": 50,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-25": 0
+    }
   },
   {
     "name": "Danilo Rodrigues (www)",
     "url": "https://www.danilorodrigues.me",
     "icon": "https://icons.duckduckgo.com/ip3/www.danilorodrigues.me.ico",
     "slug": "danilo-rodrigues-www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 294,
-    "timeWeek": 259,
-    "timeMonth": 259,
-    "timeYear": 259,
-    "dailyMinutesDown": {}
+    "time": 257,
+    "timeDay": 291,
+    "timeWeek": 257,
+    "timeMonth": 257,
+    "timeYear": 257,
+    "dailyMinutesDown": {
+      "2025-10-25": 0
+    }
   },
   {
     "name": "Danilo Rodrigues (sem www)",
     "url": "https://danilorodrigues.me",
     "icon": "https://icons.duckduckgo.com/ip3/danilorodrigues.me.ico",
     "slug": "danilo-rodrigues-sem-www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 151,
-    "timeWeek": 192,
-    "timeMonth": 192,
-    "timeYear": 192,
-    "dailyMinutesDown": {}
+    "time": 191,
+    "timeDay": 152,
+    "timeWeek": 191,
+    "timeMonth": 191,
+    "timeYear": 191,
+    "dailyMinutesDown": {
+      "2025-10-25": 0
+    }
   },
   {
     "name": "Intelinegocio (vercel)",
     "url": "https://intelinegocio.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/intelinegocio.vercel.app.ico",
     "slug": "intelinegocio-vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 184,
-    "timeWeek": 189,
-    "timeMonth": 189,
-    "timeYear": 189,
-    "dailyMinutesDown": {}
+    "time": 187,
+    "timeDay": 181,
+    "timeWeek": 187,
+    "timeMonth": 187,
+    "timeYear": 187,
+    "dailyMinutesDown": {
+      "2025-10-25": 0
+    }
   }
 ]
