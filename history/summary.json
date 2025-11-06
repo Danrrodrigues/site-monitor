@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 603,
+    "time": 602,
     "timeDay": 567,
-    "timeWeek": 600,
-    "timeMonth": 603,
-    "timeYear": 603,
+    "timeWeek": 599,
+    "timeMonth": 602,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2025-10-25": 23
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 423,
-    "timeDay": 402,
+    "time": 422,
+    "timeDay": 406,
     "timeWeek": 407,
-    "timeMonth": 423,
-    "timeYear": 423,
+    "timeMonth": 422,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2025-10-25": 23
     }
@@ -71,8 +71,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 297,
-    "timeDay": 224,
-    "timeWeek": 281,
+    "timeDay": 222,
+    "timeWeek": 280,
     "timeMonth": 297,
     "timeYear": 297,
     "dailyMinutesDown": {
@@ -91,7 +91,7 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 201,
-    "timeDay": 206,
+    "timeDay": 207,
     "timeWeek": 198,
     "timeMonth": 201,
     "timeYear": 201,
@@ -105,16 +105,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/intelinegocio.vercel.app.ico",
     "slug": "intelinegocio-vercel",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 192,
-    "timeDay": 184,
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 191,
+    "timeDay": 176,
     "timeWeek": 182,
-    "timeMonth": 192,
-    "timeYear": 192,
+    "timeMonth": 191,
+    "timeYear": 191,
     "dailyMinutesDown": {
       "2025-10-25": 23
     }
